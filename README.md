@@ -23,12 +23,12 @@ savicky '@' cs.cas.cz
 
 # Train the model
 - The data set was split to train, validation, and test with the proportions of 60%, 20%, and 20%, respectively
-- The model was trained for the methods kNN, Naive Bayes, Logistic Regression, SVM (Support Vector Machine), and Neural Net
+- The classifications models kNN, Naive Bayes, Logistic Regression, SVM (Support Vector Machine), and Neural Net were trained
 - SVM (Support Vector Machine) and Neural Net have the best F1 values for test data set
 
 ### Auto ML
 - The model was trained using Auto ML, Pycaret
--  LGBMClassifier was the best model with an F1 of 0.91
+- LGBMClassifier was the best model with an F1 of 0.91
 
 
   
