@@ -1,7 +1,7 @@
 # MAGIC-Gamma-Telescope
 
-- This Classification model is done using Machine Leaning and Auto ML.
-- SVM (F1 = 0.86)  and Nural Networks (F1= 0.88) gave the best models.
+- This Classification model is done using Machine Leaning and Auto ML
+- SVM (F1 = 0.86)  and Nural Networks (F1= 0.88) gave the best models
 - Auto ML, Pycaret gave LGBMClassifier as the best model with F1 of 0.91
 
 ## Data Source
